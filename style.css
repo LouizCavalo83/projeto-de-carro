@@ -1,0 +1,24 @@
+body {background-color: rgb(0, 0, 0);
+}
+h1 {color: rgb(255, 255, 255);
+text-align: center;
+}
+h2 {color: rgb(255, 255, 255);
+}
+#imagem {width: 50%;
+      margin-left: 20%;
+      border-style: solid;
+      border-color: black;
+      border-width: 5px;
+}
+body {border-color: black;
+     border-style: solid;
+}
+h4 {color: aliceblue;
+}
+body {border-color: aliceblue;
+      border-style: solid;
+      border-left: 20%;
+}
+
+
